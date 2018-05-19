@@ -45,6 +45,7 @@ public class SERLabo4 {
         try {
             /** STRUCTURE PERMETTANT LES CONTORLES **/
             HashSet<String> filmAlreadySaved = new HashSet<>();
+            HashSet<String> ActeurAlreadySaved = new HashSet<>();
 
             Document document = new Document();
             XMLOutputter outputter = new XMLOutputter(Format.getPrettyFormat());
@@ -177,6 +178,52 @@ public class SERLabo4 {
                     }
                     film.addContent(roles);
 
+                    /** ACTEURS **/
+                    for(Element roleOld: oldFilm.getChild("roles").getChildren("role")){
+                        if(!ActeurAlreadySaved.contains(roleOld.getChild("acteur").getAttribute("no").getValue())) {
+                            Element acteur = new Element("acteur");
+
+                            Element nom = new Element("nom");
+                            nom.setText(roleOld.getChild("acteur").getChild("nom").getValue());
+                            acteur.addContent(nom);
+
+                            if (acteur.getChild("nomNaissance") != null) {
+                                Element nomNaissance = new Element("nom_naissance");
+                                nomNaissance.setText(roleOld.getChild("acteur").getChild("nomNaissance").getValue());
+                                acteur.addContent(nomNaissance);
+                            }
+
+                            Element sexe = new Element("sexe");
+                            sexe.setAttribute("valeur", roleOld.getAttributeValue("sexe"));
+                            acteur.addContent(sexe);
+
+                            Element dateNaissance = new Element("date_naissance");
+                            dateNaissance.setAttribute("format", "dd.mm.yyyy");
+                            if (roleOld.getChild("acteur").getChild("dateNaissance") != null) {
+                                dateNaissance.setText(getDateSimple(roleOld.getChild("acteur").getChild("dateNaissance").getChild("date")));
+                            }
+                            acteur.addContent(dateNaissance);
+
+                            Element dateDeces = new Element("date_deces");
+                            dateDeces.setAttribute("format", "dd.mm.yyyy");
+                            if (roleOld.getChild("acteur").getChild("dateDeces") != null) {
+                                dateDeces.setText(getDateSimple(roleOld.getChild("acteur").getChild("dateDeces").getChild("date")));
+                            }
+                            acteur.addContent(dateDeces);
+
+                            Element bio = new Element("biographie");
+                            if (roleOld.getChild("acteur").getChild("biographie") != null) {
+                                bio.setText(roleOld.getChild("acteur").getChild("biographie").getValue());
+                            }
+                            acteur.addContent(bio);
+
+                            acteur.setAttribute("no", roleOld.getChild("acteur").getAttribute("no").getValue());
+
+                            acteurs.addContent(acteur);
+                            ActeurAlreadySaved.add(roleOld.getChild("acteur").getAttribute("no").getValue());
+                        }
+                    }
+
                     /** Ajout du film au films **/
                     films.addContent(film); // ajout du film au list de films
 
@@ -191,7 +238,7 @@ public class SERLabo4 {
             /** LIST_LANGUAGES **/
             XPathFactory xpFactory = XPathFactory.instance();
 
-            XPathExpression xp = xpFactory.compile("//film/langages/langage", Filters.element());
+            XPathExpression xp = xpFactory.compile("//film/langues/langue", Filters.element());
             List<Element> langages = (List<Element>)(xp.evaluate(documentOld));
             for(Element el : langages){
                 Element langage = new Element("langage");
@@ -241,9 +288,11 @@ public class SERLabo4 {
 
     private static String getDate(Element dateOld){
         // dd.mm.aaaa
-        String date = dateOld.getChild("jour").getValue() + "." + dateOld.getChild("mois").getValue() + "." + dateOld.getChild("annee").getValue();
-        date += " " + dateOld.getChild("heure") + ":" + dateOld.getChild("minute");
-        return date;
+        return getDateSimple(dateOld) +  dateOld.getChild("heure").getValue() + ":" + dateOld.getChild("minute").getValue();
+    }
+
+    private static String getDateSimple(Element dateOld){
+        return dateOld.getChild("jour").getValue() + "." + dateOld.getChild("mois").getValue() + "." + dateOld.getChild("annee").getValue();
     }
 
     public static void main(String[] argv){
