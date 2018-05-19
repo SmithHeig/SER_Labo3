@@ -1,0 +1,40 @@
+  {
+  "$schema" : "http://json-schema.org/schema#",
+
+  "type" : "object",
+  "properties": {
+    "projections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "object",
+            "properties":{
+              "jour": {"type": "number"},
+              "mois": {"type": "number"},
+              "année": {"type": "number"}
+            }
+          },
+          "film" : {
+            "type": "object",
+            "properties": {
+              "titre": {"type": "string"},
+              "acteurs": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "nom": {"type": "string"},
+                    "role": {"type": "number"}
+                  }
+                }
+              }
+            }
+          }
+
+        }
+      }
+    }
+  }
+}
