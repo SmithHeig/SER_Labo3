@@ -50,7 +50,7 @@ public class SERLabo4 {
             XMLOutputter outputter = new XMLOutputter(Format.getPrettyFormat());
 
             /** Ajout de la dtd à l'xml **/
-            DocType docType= new DocType("cinema", "projections.dtd"); // A vérifié le premier param
+            DocType docType= new DocType("plex", "projections.dtd"); // A vérifié le premier param
             document.addContent(docType); // Ajout de la dtd au document (référence en haut du document)
 
             /** Ajout des référence (en tête) sur la feuille xsl **/
@@ -131,7 +131,7 @@ public class SERLabo4 {
                     Element critiques = new Element("critiques");
                     for(Element critiqueOld : oldFilm.getChild("critiques").getChildren("critique")){
                         Element critique = new Element("critique");
-                        critique.setAttribute("note", critiqueOld.getAttribute("note").getValue()); // TODO: A rajouter dans le labo2
+                        critique.setAttribute("note", critiqueOld.getAttribute("note").getValue());
                         critique.setText(critiqueOld.getValue());
                         critiques.addContent(critique);
                     }
@@ -142,7 +142,7 @@ public class SERLabo4 {
                     String string_langage = "";
                     if(oldFilm.getChildren("langues") != null) {
                         for (Element langage : oldFilm.getChild("langues").getChildren("langue")) {
-                            string_langage += langage.getAttributeValue("no") + " "; // TODO a rajouter dans labo2
+                            string_langage += langage.getAttributeValue("no") + " ";
                         }
                         langages.setAttribute("liste", string_langage);
                         film.addContent(langages);
@@ -152,7 +152,7 @@ public class SERLabo4 {
                     Element genres = new Element("genres");
                     String string_genre = "";
                     for(Element genre: oldFilm.getChild("genres").getChildren("genre")){
-                        string_genre += genre.getAttributeValue("no") + " "; // TODO a rajouter dans labo2
+                        string_genre += genre.getAttributeValue("no") + " ";
                     }
                     genres.setAttribute("liste", string_genre);
                     film.addContent(genres);
@@ -161,7 +161,7 @@ public class SERLabo4 {
                     Element motsCles = new Element("mots_cles");
                     String string_motCle = "";
                     for(Element motCle : oldFilm.getChild("mots-cles").getChildren("mot-cle")){
-                        string_motCle += motsCles.getAttributeValue("no") + " "; // TODO a rajouter dans labo2
+                        string_motCle += motCle.getAttributeValue("no") + " ";
                     }
                     motsCles.setAttribute("liste", string_motCle);
                     film.addContent(motsCles);
@@ -242,7 +242,7 @@ public class SERLabo4 {
     private static String getDate(Element dateOld){
         // dd.mm.aaaa
         String date = dateOld.getChild("jour").getValue() + "." + dateOld.getChild("mois").getValue() + "." + dateOld.getChild("annee").getValue();
-        date += " " + dateOld.getChild("heure") + ":" + dateOld.getChild("minute"); // TODO: a ajouter dans le labo 2
+        date += " " + dateOld.getChild("heure") + ":" + dateOld.getChild("minute");
         return date;
     }
 
