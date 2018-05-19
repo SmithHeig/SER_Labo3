@@ -187,11 +187,12 @@ public class SERLabo4 {
                             nom.setText(roleOld.getChild("acteur").getChild("nom").getValue());
                             acteur.addContent(nom);
 
+
+                            Element nomNaissance = new Element("nom_naissance");
                             if (acteur.getChild("nomNaissance") != null) {
-                                Element nomNaissance = new Element("nom_naissance");
                                 nomNaissance.setText(roleOld.getChild("acteur").getChild("nomNaissance").getValue());
-                                acteur.addContent(nomNaissance);
                             }
+                            acteur.addContent(nomNaissance);
 
                             Element sexe = new Element("sexe");
                             sexe.setAttribute("valeur", roleOld.getAttributeValue("sexe"));

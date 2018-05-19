@@ -94,6 +94,7 @@
   <acteurs>
     <acteur no="A2379317">
       <nom>Hartford, Diane</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -101,6 +102,7 @@
     </acteur>
     <acteur no="A2998542">
       <nom>von Lehndorff, Veruschka</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">14.4.1939</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -108,6 +110,7 @@
     </acteur>
     <acteur no="A2167366">
       <nom>Cole, Christina</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">8.4.1982</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -115,6 +118,7 @@
     </acteur>
     <acteur no="A1298032">
       <nom>Notley, Peter</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -122,6 +126,7 @@
     </acteur>
     <acteur no="A2925977">
       <nom>Svátková, Vlastina</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">9.2.1982</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -129,6 +134,7 @@
     </acteur>
     <acteur no="A1372760">
       <nom>Pelech, Dusan</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -136,6 +142,7 @@
     </acteur>
     <acteur no="A2242968">
       <nom>Du Jeu, Félicité</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -143,6 +150,7 @@
     </acteur>
     <acteur no="A2309041">
       <nom>Gabajová, Regina</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">21.3.1971</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -150,6 +158,7 @@
     </acteur>
     <acteur no="A2348923">
       <nom>Green, Eva</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">5.6.1980</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -157,6 +166,7 @@
     </acteur>
     <acteur no="A633338">
       <nom>Giannini, Giancarlo</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.7.1942</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -164,6 +174,7 @@
     </acteur>
     <acteur no="A1007099">
       <nom>Leal, Carlos</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.0.1969</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -171,6 +182,7 @@
     </acteur>
     <acteur no="A398765">
       <nom>Daniel, Andreas</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -178,6 +190,7 @@
     </acteur>
     <acteur no="A1294571">
       <nom>Nonyela, Valentine</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.0.1970</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -185,6 +198,7 @@
     </acteur>
     <acteur no="A2005134">
       <nom>Ambrosio, Alessandra</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">11.3.1981</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -192,6 +206,7 @@
     </acteur>
     <acteur no="A1668852">
       <nom>So, Tom</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -199,6 +214,7 @@
     </acteur>
     <acteur no="A1620597">
       <nom>Shaw, Darwin</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -206,6 +222,7 @@
     </acteur>
     <acteur no="A650188">
       <nom>Gold, John</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -213,6 +230,7 @@
     </acteur>
     <acteur no="A106571">
       <nom>Barberini, Urbano</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">18.8.1961</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -220,6 +238,7 @@
     </acteur>
     <acteur no="A2637370">
       <nom>Miller, Jessica</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -227,6 +246,7 @@
     </acteur>
     <acteur no="A1645521">
       <nom>Sinclair, Malcolm</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">5.5.1950</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -234,6 +254,7 @@
     </acteur>
     <acteur no="A2325595">
       <nom>Gethings, Rebecca</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -241,6 +262,7 @@
     </acteur>
     <acteur no="A1403596">
       <nom>Pistor, Ludger</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">16.2.1959</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -248,6 +270,7 @@
     </acteur>
     <acteur no="A11435">
       <nom>Ade</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -255,6 +278,7 @@
     </acteur>
     <acteur no="A1566810">
       <nom>Santamaria, Claudio</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">22.6.1974</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -262,6 +286,7 @@
     </acteur>
     <acteur no="A576848">
       <nom>Foucan, Sebastien</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">27.4.1974</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -269,6 +294,7 @@
     </acteur>
     <acteur no="A2667303">
       <nom>Murino, Caterina</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">15.8.1977</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -276,6 +302,7 @@
     </acteur>
     <acteur no="A369699">
       <nom>Cox, Simon</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -283,6 +310,7 @@
     </acteur>
     <acteur no="A185672">
       <nom>Bonham-Carter, Crispin</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">23.8.1969</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -290,6 +318,7 @@
     </acteur>
     <acteur no="A2248252">
       <nom>Duravolá, Martina</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -297,6 +326,7 @@
     </acteur>
     <acteur no="A1812821">
       <nom>Ucík, Martin</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">5.11.1955</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -304,6 +334,7 @@
     </acteur>
     <acteur no="A4607">
       <nom>Abkarian, Simon</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">5.2.1962</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -311,6 +342,7 @@
     </acteur>
     <acteur no="A82002">
       <nom>Avena, Emmanuel</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -318,6 +350,7 @@
     </acteur>
     <acteur no="A157806">
       <nom>Bhattacharjee, Paul</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">4.4.1960</date_naissance>
       <date_deces format="dd.mm.yyyy">1.0.12</date_deces>
@@ -325,6 +358,7 @@
     </acteur>
     <acteur no="A822647">
       <nom>Inzerillo, Jerry</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -332,6 +366,7 @@
     </acteur>
     <acteur no="A1924788">
       <nom>Wilson, Michael G.</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">21.0.1943</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -339,6 +374,7 @@
     </acteur>
     <acteur no="A1941794">
       <nom>Wright, Jeffrey</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">7.11.1965</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -346,6 +382,7 @@
     </acteur>
     <acteur no="A2702533">
       <nom>Ochotská, Michaela</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">19.11.1984</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -353,6 +390,7 @@
     </acteur>
     <acteur no="A488415">
       <nom>Durran, Jason</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -360,6 +398,7 @@
     </acteur>
     <acteur no="A299911">
       <nom>Chancer, John</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -367,6 +406,7 @@
     </acteur>
     <acteur no="A852802">
       <nom>Jezek, Robert</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -374,6 +414,7 @@
     </acteur>
     <acteur no="A1192260">
       <nom>Mikkelsen, Mads</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">22.10.1965</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -381,6 +422,7 @@
     </acteur>
     <acteur no="A1711852">
       <nom>Stransky, Leo</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -388,6 +430,7 @@
     </acteur>
     <acteur no="A1559434">
       <nom>Sammel, Richard</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.0.1960</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -395,6 +438,7 @@
     </acteur>
     <acteur no="A968243">
       <nom>Kulhavý, Vladimír</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -402,6 +446,7 @@
     </acteur>
     <acteur no="A2220301">
       <nom>Dench, Judi</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">9.11.1934</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -409,6 +454,7 @@
     </acteur>
     <acteur no="A77354">
       <nom>Atkins, Lasco</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -416,6 +462,7 @@
     </acteur>
     <acteur no="A2636138">
       <nom>Milicevic, Ivana</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">26.3.1974</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -423,6 +470,7 @@
     </acteur>
     <acteur no="A1493564">
       <nom>Ristovski, Lazar</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">26.9.1952</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -430,6 +478,7 @@
     </acteur>
     <acteur no="A1654011">
       <nom>Slade, Robert G.</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -437,6 +486,7 @@
     </acteur>
     <acteur no="A495786">
       <nom>Ebun-Cole, Olutunji</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -444,6 +494,7 @@
     </acteur>
     <acteur no="A1020217">
       <nom>Lenc, Jirí</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -451,6 +502,7 @@
     </acteur>
     <acteur no="A842121">
       <nom>Jankovsky, Jaroslav</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -458,6 +510,7 @@
     </acteur>
     <acteur no="A1199473">
       <nom>Millson, Joseph</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.0.1974</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -465,6 +518,7 @@
     </acteur>
     <acteur no="A319401">
       <nom>Christensen, Jesper</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">16.4.1948</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -472,6 +526,7 @@
     </acteur>
     <acteur no="A448361">
       <nom>Diaw, Makhoudia</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -479,6 +534,7 @@
     </acteur>
     <acteur no="A1314130">
       <nom>Offei, Michael</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">4.9.1966</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -486,6 +542,7 @@
     </acteur>
     <acteur no="A2401856">
       <nom>Hladikova, Veronika</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -493,6 +550,7 @@
     </acteur>
     <acteur no="A414353">
       <nom>De Bankolé, Isaach</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">12.7.1957</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -500,6 +558,7 @@
     </acteur>
     <acteur no="A1027027">
       <nom>Levi Leroy, Charlie</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.8.1946</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -507,6 +566,7 @@
     </acteur>
     <acteur no="A2597588">
       <nom>Martincáková, Marcela</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -514,6 +574,7 @@
     </acteur>
     <acteur no="A295903">
       <nom>Chadbon, Tom</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">27.1.1946</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -521,6 +582,7 @@
     </acteur>
     <acteur no="A370864">
       <nom>Craig, Daniel</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">2.2.1968</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -528,6 +590,7 @@
     </acteur>
     <acteur no="A1644947">
       <nom>Simunek, Miroslav</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">5.3.1978</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -535,6 +598,7 @@
     </acteur>
     <acteur no="A598987">
       <nom>G'Vera, Ivan</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">1.3.1959</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -542,6 +606,7 @@
     </acteur>
     <acteur no="A1748274">
       <nom>Tarrach, Jürgen</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">17.11.1960</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -549,6 +614,7 @@
     </acteur>
     <acteur no="A1171383">
       <nom>Meheux, Phil</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">17.8.1941</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -556,6 +622,7 @@
     </acteur>
     <acteur no="A1583928">
       <nom>Schick, Clemens</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">15.1.1972</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -563,6 +630,7 @@
     </acteur>
     <acteur no="A218944">
       <nom>Brooke, Peter</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy" />
       <date_deces format="dd.mm.yyyy" />
@@ -570,6 +638,7 @@
     </acteur>
     <acteur no="A1179146">
       <nom>Menzies, Tobias</nom>
+      <nom_naissance />
       <sexe valeur="MASCULIN" />
       <date_naissance format="dd.mm.yyyy">7.2.1974</date_naissance>
       <date_deces format="dd.mm.yyyy" />
@@ -577,6 +646,7 @@
     </acteur>
     <acteur no="A2153316">
       <nom>Chin, Tsai</nom>
+      <nom_naissance />
       <sexe valeur="FEMININ" />
       <date_naissance format="dd.mm.yyyy">30.10.1936</date_naissance>
       <date_deces format="dd.mm.yyyy" />
