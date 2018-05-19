@@ -173,7 +173,7 @@ public class SERLabo4 {
                         Element role = new Element("role");
                         role.setAttribute("place", roleOld.getChild("place").getValue());
                         role.setAttribute("personnage", roleOld.getChild("personnage").getValue());
-                        role.setAttribute("acteur_id", roleOld.getChild("id").getValue());
+                        role.setAttribute("acteur_id", roleOld.getChild("acteur").getAttribute("no").getValue());
                         roles.addContent(role);
                     }
                     film.addContent(roles);

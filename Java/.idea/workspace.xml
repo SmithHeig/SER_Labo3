@@ -14,11 +14,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SERLabo4.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="SERLabo4.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/SERLabo4.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="205">
-                  <caret line="192" column="117" lean-forward="false" selection-start-line="192" selection-start-column="117" selection-end-line="192" selection-end-column="117" />
+                <state relative-caret-position="445">
+                  <caret line="175" column="63" lean-forward="false" selection-start-line="175" selection-start-column="63" selection-end-line="175" selection-end-column="63" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#2205#2220#0" expanded="true" />
@@ -47,14 +47,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="projections.xml" pinned="false" current-in-tab="true">
+          <file leaf-file-name="projections.xml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/projections.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-3600">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="-1397">
+                  <caret line="20" column="67" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="64" />
                   <folding>
-                    <element signature="e#22971#22976#0" expanded="true" />
-                    <element signature="e#38018#38023#0" expanded="true" />
+                    <element signature="e#23150#23155#0" expanded="true" />
+                    <element signature="e#38197#38202#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -67,7 +67,7 @@
           <file leaf-file-name="cinema.xml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/cinema.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-4275">
+                <state relative-caret-position="-3240">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
@@ -88,6 +88,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>motcle</find>
+      <find>A2219</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -304,12 +305,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526736833822</updated>
       <workItem from="1526736837435" duration="17431000" />
-      <workItem from="1526763486789" duration="3552000" />
+      <workItem from="1526763486789" duration="3799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20983000" />
+    <option name="totallyTimeSpent" value="21230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1037" extended-state="6" />
@@ -391,24 +392,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SERLabo4.java">
+    <entry file="file://$PROJECT_DIR$/projections.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="192" column="117" lean-forward="false" selection-start-line="192" selection-start-column="117" selection-end-line="192" selection-end-column="117" />
+        <state relative-caret-position="-1397">
+          <caret line="20" column="67" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2205#2220#0" expanded="true" />
+            <element signature="e#23150#23155#0" expanded="true" />
+            <element signature="e#38197#38202#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projections.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SERLabo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3600">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="445">
+          <caret line="175" column="63" lean-forward="false" selection-start-line="175" selection-start-column="63" selection-end-line="175" selection-end-column="63" />
           <folding>
-            <element signature="e#22971#22976#0" expanded="true" />
-            <element signature="e#38018#38023#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2205#2220#0" expanded="true" />
           </folding>
         </state>
       </provider>

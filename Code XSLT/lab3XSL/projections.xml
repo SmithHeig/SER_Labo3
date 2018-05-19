@@ -18,76 +18,76 @@
       <genres liste="G522 G523 G524 " />
       <mots_cles liste="M606 M585 M552 M712 M725 M541 M666 M561 M693 M711 M686 M624 M639 M664 M651 M634 M707 M673 M549 M645 M547 M728 M572 M573 M719 M582 M616 M667 M682 M631 M565 M581 M637 M583 M613 M687 M662 M548 M537 M598 M618 M543 M593 M647 M563 M702 M660 M679 M622 M550 M710 M608 M671 M568 M587 M623 M617 M640 M597 M629 M705 M678 M569 M594 M688 M652 M650 M695 M605 M595 M659 M698 M715 M680 M535 M619 M700 M612 M644 M706 M646 M720 M555 M655 M532 M703 M716 M578 M692 M592 M684 M571 M540 M579 M546 M722 M699 M590 M542 M672 M604 M708 M691 M589 M685 M677 M528 M574 M534 M658 M709 M636 M669 M580 M600 M661 M628 M643 M586 M676 M615 M635 M610 M538 M591 M559 M533 M530 M697 M614 M714 M611 M638 M529 M663 M599 M539 M603 M632 M588 M727 M527 M649 M553 M562 M545 M567 M558 M566 M724 M556 M626 M681 M602 M584 M657 M576 M653 M596 M557 M570 M627 M670 M648 M713 M642 M690 M531 M641 M665 M718 M675 M723 M625 M607 M656 M544 M621 M554 M683 M620 M564 M633 M536 M696 M609 M717 M721 M726 M601 M674 M668 M689 M560 M575 M701 M551 M704 M577 M654 M630 M694 " />
       <roles>
-        <role place="36" personnage="Card Players" acteur_id="A2219" />
-        <role place="29" personnage="Gräfin von Wallenstein" acteur_id="A2212" />
-        <role place="32" personnage="Ocean Club Receptionist" acteur_id="A2215" />
-        <role place="43" personnage="MI6 Technician" acteur_id="A2226" />
-        <role place="65" personnage="Waitress" acteur_id="A2248" />
-        <role place="58" personnage="Bartender" acteur_id="A2241" />
-        <role place="49" personnage="French News Reporter" acteur_id="A2232" />
-        <role place="62" personnage="Hotel Splendide Clerk" acteur_id="A2245" />
-        <role place="2" personnage="Vesper Lynd" acteur_id="A2185" />
-        <role place="6" personnage="Rene Mathis" acteur_id="A2189" />
-        <role place="31" personnage="Tournament Director" acteur_id="A2214" />
-        <role place="30" personnage="Dealer" acteur_id="A2213" />
-        <role place="57" personnage="Nambutu Embassy Official" acteur_id="A2240" />
-        <role place="60" personnage="Tennis Girls" acteur_id="A2243" />
-        <role place="28" personnage="Fukutu" acteur_id="A2211" />
-        <role place="19" personnage="Fisher" acteur_id="A2202" />
-        <role place="34" personnage="Card Players" acteur_id="A2217" />
-        <role place="24" personnage="Tomelli" acteur_id="A2207" />
-        <role place="37" personnage="Dealer" acteur_id="A2220" />
-        <role place="15" personnage="Dryden" acteur_id="A2198" />
-        <role place="42" personnage="Hot Room Technicians" acteur_id="A2225" />
-        <role place="17" personnage="Mendel" acteur_id="A2200" />
-        <role place="23" personnage="Infante" acteur_id="A2206" />
-        <role place="13" personnage="Carlos" acteur_id="A2196" />
-        <role place="14" personnage="Mollaka" acteur_id="A2197" />
-        <role place="7" personnage="Solange" acteur_id="A2190" />
-        <role place="41" personnage="Hot Room Technicians" acteur_id="A2224" />
-        <role place="40" personnage="Hot Room Doctors" acteur_id="A2223" />
-        <role place="54" personnage="Police Chief's Girlfriends" acteur_id="A2237" />
-        <role place="64" personnage="Barman" acteur_id="A2247" />
-        <role place="8" personnage="Alex Dimitrios" acteur_id="A2191" />
-        <role place="21" personnage="Leo" acteur_id="A2204" />
-        <role place="39" personnage="Hot Room Doctors" acteur_id="A2222" />
-        <role place="35" personnage="Card Players" acteur_id="A2218" />
-        <role place="53" personnage="Chief of Police" acteur_id="A2236" />
-        <role place="5" personnage="Felix Leiter" acteur_id="A2188" />
-        <role place="50" personnage="Shop Assistant" acteur_id="A2233" />
-        <role place="46" personnage="Airport Policemen" acteur_id="A2229" />
-        <role place="44" personnage="Police Commander" acteur_id="A2227" />
-        <role place="47" personnage="Arresting Officer" acteur_id="A2230" />
-        <role place="3" personnage="Le Chiffre" acteur_id="A2186" />
-        <role place="38" personnage="Tall Man" acteur_id="A2221" />
-        <role place="16" personnage="Adolph Gettler" acteur_id="A2199" />
-        <role place="56" personnage="Croatian General" acteur_id="A2239" />
-        <role place="4" personnage="M" acteur_id="A2187" />
-        <role place="9223372036854775807" personnage="Airport Staff" acteur_id="A2253" />
-        <role place="11" personnage="Valenka" acteur_id="A2194" />
-        <role place="27" personnage="Kaminofsky" acteur_id="A2210" />
-        <role place="48" personnage="Pilot" acteur_id="A2231" />
-        <role place="63" personnage="Cola Kid" acteur_id="A2246" />
-        <role place="68" personnage="Hotel Splendide Limo Driver" acteur_id="A2251" />
-        <role place="69" personnage="Hermitage Waiter" acteur_id="A2252" />
-        <role place="18" personnage="Carter" acteur_id="A2201" />
-        <role place="10" personnage="Mr. White" acteur_id="A2193" />
-        <role place="52" personnage="Obanno's Liaison" acteur_id="A2235" />
-        <role place="51" personnage="Obanno's Lieutenant" acteur_id="A2234" />
-        <role place="61" personnage="Tennis Girls" acteur_id="A2244" />
-        <role place="9" personnage="Steven Obanno" acteur_id="A2192" />
-        <role place="26" personnage="Gallardo" acteur_id="A2209" />
-        <role place="55" personnage="Police Chief's Girlfriends" acteur_id="A2238" />
-        <role place="22" personnage="Stockbroker" acteur_id="A2205" />
-        <role place="1" personnage="James Bond" acteur_id="A2184" />
-        <role place="66" personnage="Disapproving Man" acteur_id="A2249" />
-        <role place="67" personnage="Venice Hotel Concierge" acteur_id="A2250" />
-        <role place="33" personnage="Schultz" acteur_id="A2216" />
-        <role place="59" personnage="Treasury Bureaucrat" acteur_id="A2242" />
-        <role place="20" personnage="Kratt" acteur_id="A2203" />
-        <role place="45" personnage="Airport Policemen" acteur_id="A2228" />
-        <role place="12" personnage="Villiers" acteur_id="A2195" />
-        <role place="25" personnage="Madame Wu" acteur_id="A2208" />
+        <role place="36" personnage="Card Players" acteur_id="A2379317" />
+        <role place="29" personnage="Gräfin von Wallenstein" acteur_id="A2998542" />
+        <role place="32" personnage="Ocean Club Receptionist" acteur_id="A2167366" />
+        <role place="43" personnage="MI6 Technician" acteur_id="A1298032" />
+        <role place="65" personnage="Waitress" acteur_id="A2925977" />
+        <role place="58" personnage="Bartender" acteur_id="A1372760" />
+        <role place="49" personnage="French News Reporter" acteur_id="A2242968" />
+        <role place="62" personnage="Hotel Splendide Clerk" acteur_id="A2309041" />
+        <role place="2" personnage="Vesper Lynd" acteur_id="A2348923" />
+        <role place="6" personnage="Rene Mathis" acteur_id="A633338" />
+        <role place="31" personnage="Tournament Director" acteur_id="A1007099" />
+        <role place="30" personnage="Dealer" acteur_id="A398765" />
+        <role place="57" personnage="Nambutu Embassy Official" acteur_id="A1294571" />
+        <role place="60" personnage="Tennis Girls" acteur_id="A2005134" />
+        <role place="28" personnage="Fukutu" acteur_id="A1668852" />
+        <role place="19" personnage="Fisher" acteur_id="A1620597" />
+        <role place="34" personnage="Card Players" acteur_id="A650188" />
+        <role place="24" personnage="Tomelli" acteur_id="A106571" />
+        <role place="37" personnage="Dealer" acteur_id="A2637370" />
+        <role place="15" personnage="Dryden" acteur_id="A1645521" />
+        <role place="42" personnage="Hot Room Technicians" acteur_id="A2325595" />
+        <role place="17" personnage="Mendel" acteur_id="A1403596" />
+        <role place="23" personnage="Infante" acteur_id="A11435" />
+        <role place="13" personnage="Carlos" acteur_id="A1566810" />
+        <role place="14" personnage="Mollaka" acteur_id="A576848" />
+        <role place="7" personnage="Solange" acteur_id="A2667303" />
+        <role place="41" personnage="Hot Room Technicians" acteur_id="A369699" />
+        <role place="40" personnage="Hot Room Doctors" acteur_id="A185672" />
+        <role place="54" personnage="Police Chief's Girlfriends" acteur_id="A2248252" />
+        <role place="64" personnage="Barman" acteur_id="A1812821" />
+        <role place="8" personnage="Alex Dimitrios" acteur_id="A4607" />
+        <role place="21" personnage="Leo" acteur_id="A82002" />
+        <role place="39" personnage="Hot Room Doctors" acteur_id="A157806" />
+        <role place="35" personnage="Card Players" acteur_id="A822647" />
+        <role place="53" personnage="Chief of Police" acteur_id="A1924788" />
+        <role place="5" personnage="Felix Leiter" acteur_id="A1941794" />
+        <role place="50" personnage="Shop Assistant" acteur_id="A2702533" />
+        <role place="46" personnage="Airport Policemen" acteur_id="A488415" />
+        <role place="44" personnage="Police Commander" acteur_id="A299911" />
+        <role place="47" personnage="Arresting Officer" acteur_id="A852802" />
+        <role place="3" personnage="Le Chiffre" acteur_id="A1192260" />
+        <role place="38" personnage="Tall Man" acteur_id="A1711852" />
+        <role place="16" personnage="Adolph Gettler" acteur_id="A1559434" />
+        <role place="56" personnage="Croatian General" acteur_id="A968243" />
+        <role place="4" personnage="M" acteur_id="A2220301" />
+        <role place="9223372036854775807" personnage="Airport Staff" acteur_id="A77354" />
+        <role place="11" personnage="Valenka" acteur_id="A2636138" />
+        <role place="27" personnage="Kaminofsky" acteur_id="A1493564" />
+        <role place="48" personnage="Pilot" acteur_id="A1654011" />
+        <role place="63" personnage="Cola Kid" acteur_id="A495786" />
+        <role place="68" personnage="Hotel Splendide Limo Driver" acteur_id="A1020217" />
+        <role place="69" personnage="Hermitage Waiter" acteur_id="A842121" />
+        <role place="18" personnage="Carter" acteur_id="A1199473" />
+        <role place="10" personnage="Mr. White" acteur_id="A319401" />
+        <role place="52" personnage="Obanno's Liaison" acteur_id="A448361" />
+        <role place="51" personnage="Obanno's Lieutenant" acteur_id="A1314130" />
+        <role place="61" personnage="Tennis Girls" acteur_id="A2401856" />
+        <role place="9" personnage="Steven Obanno" acteur_id="A414353" />
+        <role place="26" personnage="Gallardo" acteur_id="A1027027" />
+        <role place="55" personnage="Police Chief's Girlfriends" acteur_id="A2597588" />
+        <role place="22" personnage="Stockbroker" acteur_id="A295903" />
+        <role place="1" personnage="James Bond" acteur_id="A370864" />
+        <role place="66" personnage="Disapproving Man" acteur_id="A1644947" />
+        <role place="67" personnage="Venice Hotel Concierge" acteur_id="A598987" />
+        <role place="33" personnage="Schultz" acteur_id="A1748274" />
+        <role place="59" personnage="Treasury Bureaucrat" acteur_id="A1171383" />
+        <role place="20" personnage="Kratt" acteur_id="A1583928" />
+        <role place="45" personnage="Airport Policemen" acteur_id="A218944" />
+        <role place="12" personnage="Villiers" acteur_id="A1179146" />
+        <role place="25" personnage="Madame Wu" acteur_id="A2153316" />
       </roles>
     </film>
   </films>
